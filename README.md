@@ -1,2 +1,2 @@
-# iconcaw
-Icon pack of Macaw
+# panorama
+Icon pack from scratch for MacawOS - designed with simplicity, consistency and accuracy in mind.
